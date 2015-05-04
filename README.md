@@ -13,3 +13,5 @@ To launch the site, simply run the `entertainment_center.py` file:
 ```python
 python entertainment_center.py
 ```
+
+A sample of the rendered page can be seen here: [http://amrod.github.io/movie-trailer-website](http://amrod.github.io/movie-trailer-website/)
