@@ -4,12 +4,12 @@ This website was created as part of the Udacity Full Stack Web Developer Nanodeg
 
 ## Getting started
 
-Download the source from (https://github.com/amrod/movie-trailer-website)
+Download the source from [https://github.com/amrod/movie-trailer-website](https://github.com/amrod/movie-trailer-website)
 
 ## Run
 
 To launch the site, simply run the `entertainment_center.py` file:
 
 ```python
-run entertainment_center.py
+python entertainment_center.py
 ```
