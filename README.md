@@ -8,10 +8,11 @@ Download the source from [https://github.com/amrod/movie-trailer-website](https:
 
 ## Run
 
-To launch the site, simply run the `entertainment_center.py` file:
+To render the site and open it in a web browser, simply run the `entertainment_center.py` file:
 
 ```python
 python entertainment_center.py
 ```
 
+A file named `fresh_tomatoes.html` is generated in the same location where `entertainment_center.py` is run from. 
 A sample of the rendered page can be seen here: [http://amrod.github.io/movie-trailer-website](http://amrod.github.io/movie-trailer-website/)
