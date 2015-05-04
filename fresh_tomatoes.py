@@ -1,3 +1,8 @@
+"""
+This module is provided by Udacity. Minor updates were made to the open_movies_page function to properly escape special
+characters from the URL.
+"""
+
 import webbrowser
 import urllib
 import os
